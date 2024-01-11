@@ -1,0 +1,7 @@
+{
+  "plugin": ["typedoc-plugin-markdown"],
+  "cleanOutputDir": false,
+  "githubPages": false,
+  "out": "docs",
+  "exclude": ["node_modules/**"]
+}
